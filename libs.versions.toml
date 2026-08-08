@@ -4,7 +4,7 @@ asm = "9.10.1"
 bstats = "3.2.1"
 bungeecord = "1.21-R0.5-SNAPSHOT"
 folia = "26.1.2.build.8-stable"
-junit = "6.1.2"
+junit = "6.1.3"
 libby = "2.1.0"
 packetevents = "2.13.0-triton"
 plugin-yml = "0.9.0"
@@ -42,8 +42,8 @@ libby-velocity = { group = "com.rexcantor64", name = "libby-velocity", version.r
 log4j-core = { group = "org.apache.logging.log4j", name = "log4j-core", version = "2.26.1" }
 lombok = { group = "org.projectlombok", name = "lombok", version = "1.18.46" }
 minimessage = { group = "net.kyori", name = "adventure-text-minimessage", version.ref = "adventure" }
-mysql-connector = { group = "com.mysql", name = "mysql-connector-j", version = "9.7.0" }
-netty-codec = { group = "io.netty", name = "netty-codec", version = "4.2.16.Final" }
+mysql-connector = { group = "com.mysql", name = "mysql-connector-j", version = "26.7.0" }
+netty-codec = { group = "io.netty", name = "netty-codec", version = "4.2.17.Final" }
 packetevents-api = { group = "com.github.retrooper", name = "packetevents-api", version.ref = "packetevents" }
 packetevents-bungeecord = { group = "com.github.retrooper", name = "packetevents-bungeecord", version.ref = "packetevents" }
 packetevents-netty-common = { group = "com.github.retrooper", name = "packetevents-netty-common", version.ref = "packetevents" }
